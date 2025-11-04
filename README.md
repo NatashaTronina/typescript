@@ -1,0 +1,1 @@
+[![Typescript](https://github.com/NatashaTronina/typescript/actions/workflows/main.yml/badge.svg)](https://github.com/NatashaTronina/typescript/actions/workflows/main.yml)
