@@ -8,4 +8,3 @@ export interface MovieInfo{
     time: string,
     price?: number, 
 }
-
